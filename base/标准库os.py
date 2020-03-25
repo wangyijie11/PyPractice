@@ -16,7 +16,7 @@ print((os.pardir))
 # os.removedir('./dir1/dir2')
 dirs = os.listdir('./')
 print(dirs)
-# os.rename('99.py','python99.py')
+# os.rename('99.py','九九乘法表.py')
 
 print(os.stat('ceshi'))
 # os.remove('ceshi')
